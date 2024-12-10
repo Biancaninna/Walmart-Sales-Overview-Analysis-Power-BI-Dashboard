@@ -43,7 +43,7 @@ In this project we will build a Walmart Sales Dashboard, we will use MySQL and P
 
 ## Problem Statement
 We need to understand what the problem statement provided to us by our client is. Our client decided to provide the problem statement in two sections, the first section is KPI's requirement and the second section is charts requirement.
-### KPI's Requirement
+### KPI's Requirements
 We need to analyze key indicators for our Walmart product sales data to gain insights into our business performance. We need to calculate the following metrics:
 1. Total Revenue
 
