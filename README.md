@@ -61,7 +61,7 @@ We need to analyze key indicators for our Walmart product sales data to gain ins
 
    The average number of products sold per order, calculated by dividing the total number of produts sold by the total number of orders.
 
-### Chart's Requirement
+### Chart's Requirements
 We would like to visualize various aspects of our Walmart product sales data to gain insights and understand key trends. We have to identified the following requirements for creating charts:
 1. Daily Trend for Total Orders
 
