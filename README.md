@@ -132,6 +132,6 @@ Before building the visualization, we will create all our measures from KPI's re
 6. Monthly Trend for Total Orders
    To visualize the monthly trend for total orders, we only need to do the same steps as visualizing the daily trend for total orders.
 
-After doing data processing, we will visualize Walmart Sales data. You can see the final result of the Power BI Dashboard visualization in this project by clicking the badges below
+After doing data processing, we will visualize Walmart Sales data. You can see the final result of the Power BI Dashboard visualization in this project by clicking the badges below.
 
    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Walmart-Sales-Dashboard-Project/blob/4eb770dea5987817b4ba210446348c5ebaad72cf/DashboardPowerBI.pbix)
