@@ -124,7 +124,7 @@ Before building the visualization, we will create all our measures from KPI's re
     >Then, to sort the names of the days of the week starting from Monday, we will use the conditional function
     
     ![image alt](https://github.com/Biancaninna/Power-BI-Documentation/blob/master/Data%20processing%203.png?raw=true)
-    >In this dashboard, we will visualize the name of the day only taking the first three letters, so we will use the Dax function.Back to the table view - new column and we can do Dax function:
+    >In this dashboard, we will visualize the name of the day only taking the first three letters, so we will use the Dax function. Back to the Table View - New Column and we can do Dax function:
     
     ![image alt](https://github.com/Biancaninna/Power-BI-Documentation/blob/master/Order%20Day.png?raw=true)
     >After that we can visualize our report
