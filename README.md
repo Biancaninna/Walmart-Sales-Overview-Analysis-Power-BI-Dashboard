@@ -42,7 +42,7 @@ In this project we will build a Walmart Sales Dashboard, we will use MySQL and P
    We will be doing some data visualization, we will be building some charts, we will be using some advanced functionality to format those charts.
 
 ## Problem Statement
-Our client decided to provide the problem statement in two sections, the first section is KPI's requirement and the second section is charts requirement.
+Our client wants to create a Walmart sales dashboard, so that they can have insight on the below requirements
 ### KPI's Requirements
 We need to analyze key indicators for our Walmart product sales data to gain insights into our business performance. We need to calculate the following metrics:
 1. Total Revenue
