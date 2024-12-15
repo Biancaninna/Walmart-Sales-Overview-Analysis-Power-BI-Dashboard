@@ -1,4 +1,4 @@
-# _Walmart Sales Power BI Dashboard_
+# Walmart Sales Power BI Dashboard
 In this project we will build a Walmart Sales Dashboard, we will use MySQL and Power BI tools which are currently being used in the market and there is a very high demand for these particular tools. We will use some advanced functions, some advanced Dax functions, conditional filtering and conditional formatting, and also action filters. Walmart sales data in this project is obtained from Kaggle.com.
 
 ## Steps in Project
@@ -42,7 +42,7 @@ In this project we will build a Walmart Sales Dashboard, we will use MySQL and P
    We will be doing some data visualization, we will be building some charts, we will be using some advanced functionality to format those charts.
 
 ## Problem Statement
-We need to understand what the problem statement provided to us by our client is. Our client decided to provide the problem statement in two sections, the first section is KPI's requirement and the second section is charts requirement.
+Our client decided to provide the problem statement in two sections, the first section is KPI's requirement and the second section is charts requirement.
 ### KPI's Requirements
 We need to analyze key indicators for our Walmart product sales data to gain insights into our business performance. We need to calculate the following metrics:
 1. Total Revenue
