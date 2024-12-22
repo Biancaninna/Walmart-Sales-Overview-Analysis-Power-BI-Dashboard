@@ -71,10 +71,10 @@ We would like to visualize various aspects of our Walmart product sales data to 
    Create a line chart that illustrates the monthly trend of total orders throughout the year. This chart will allow us to identify peak periods of high order activity.
 3. Percentage of Sales by Pizza Category
 
-   Create a pie chart that shows the distribution of sales across different product categories. This chart will provide insights into the popularity of various product categories and their contribution to overall sales.
+   Create a donut chart that shows the distribution of sales across different product categories. This chart will provide insights into the popularity of various product categories and their contribution to overall sales.
 4. Percentage of Sales by City
 
-   create a pie chart that shows each city's contribution to product sales based on different product categories. This chart will help us to understand customer preference on walmart products in each city and its impact on sales.
+   create a donut chart that shows each city's contribution to product sales based on different product categories. This chart will help us to understand customer preference on walmart products in each city and its impact on sales.
 5. Total Products Sold by Product Category
 
    Create a funnel chart that represents the total number of products sold for each product category. This chart will allow us to compare the sales performance of different product categories.
